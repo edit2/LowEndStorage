@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LowEndStorage.win | Storage on the Cheap</title>
+    <meta name="description" content="LowEndStorage.win - Storage on the Cheap" />
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109847409-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-109847409-1');
+		</script>
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Mason Rowe" />
+    <meta property="og:url" content="https://rowe.sh/" />
+    <meta property="og:image" content="https://rowe.sh/img/Mason.png" />
+    <meta property="og:description" content="Mason Rowe, Software Engineer, U.S. Army." />
+    <meta property="og:site_name" content="Mason Rowe's personal website" />
+
+    <!-- Favicon/theme -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/img/manifest.json">
+    <link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#24d05a">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+    <meta name="msapplication-config" content="/img/browserconfig.xml">
+    <meta name="theme-color" content="#24252d">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.18/fh-3.1.4/sl-1.2.6/datatables.min.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:300,400,400i,700" rel="stylesheet">
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.18/fh-3.1.4/sl-1.2.6/datatables.min.js"></script>
+  </head>
+  <body>
+    <h1 style="margin:0; text-align:center; color:white;"><span style="color:orange;">L</span>ow<span style="color:orange;">E</span>nd<span style="color:orange;">S</span>torage<span style="color:orange;">.win</span></h1>
+    <h2 style="margin:0; text-align:center; color:orange;">No aff links. No bullshit. Just storage.</h2>
+    <h5 style="margin:0 auto; text-align:center; color:white; width:75%;"><span style="color:orange;">Disclaimer:</span> Listing on this site does not imply endorsement of the provider. Don't be a dumbass -- do your research before opting to buy. Storage providers mentioned on this site have packages that start at 250GB+. The list is merely a sample of options that providers offer and is not meant to be exhaustive. If there are any errors or any edits/additions you'd like to see below, please submit an issue or a Pull Request on the <a href="https://github.com/masonr/LowEndStorage" target="_blank">GitHub project page</a>.</h5>
+
+    <div id="toggle-cols">
+      <p>Show/Hide Columns:</p>
+      <a class="toggle-vis noselect" data-column="0">Provider</a>
+      <a class="toggle-vis noselect" data-column="1">Location</a>
+      <a class="toggle-vis noselect" data-column="2">Space</a>
+      <a class="toggle-vis noselect" data-column="3">Bandwidth</a>
+      <a class="toggle-vis noselect" data-column="4">Port Speed</a>
+      <a class="toggle-vis noselect" data-column="5">CPUs</a>
+      <a class="toggle-vis noselect" data-column="6">RAM</a>
+      <a class="toggle-vis noselect" data-column="7">IPv4</a>
+      <a class="toggle-vis noselect" data-column="8">IPv6</a>
+      <a class="toggle-vis noselect" data-column="9">VZ Type</a>
+      <a class="toggle-vis noselect" data-column="10">Price</a>
+      <a class="toggle-vis noselect" data-column="11">Value</a>
+      <a class="toggle-vis noselect" data-column="12">Links</a>
+      <br><a class="toggle-all noselect">Show All</a>
+    </div>
+
+    <table id="storage-table" class="display compact cell-border">
+      <thead>
+        <th>Provider</th>
+        <th>Location</th>
+        <th>Space (GB)</th>
+        <th>B/W (TB/mo)</th>
+        <th>Port Speed (Gbps)</th>
+        <th>CPUs</th>
+        <th>RAM (GB)</th>
+        <th>IPv4</th>
+        <th>IPv6</th>
+        <th>Type</th>
+        <th>Price ($/mo)</th>
+        <th>$/TB/mo</th>
+        <th>Links</th>
+      </thead>
+      <tbody id="storage-body">
+
+        <!-------------------------------------- BEGIN TABLE ROWS -------------------------------------->
+
+        <tr>
+        	<td><a href="https://backupsy.com/" target="_blank">Backupsy</a></td>
+        	<td>EU+NA<span class='tooltip'>Dallas, TX<br>New York City, NY<br>Orlando, FL<br>Chicago, IL<br>Denver, CO<br>Buffalo, NY<br>Los Angeles, CA<br>Netherlands<br>United Kingdom<br></span></td>
+        	<td>250</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>0.5</td>
+        	<td>Yes</td>
+        	<td>?</td>
+        	<td>KVM</td>
+        	<td>$6</td>
+        	<td>$24</td>
+        	<td><a href="https://backupsy.com/" target="_blank">Order</a><span class="coupon">'40PERCENT'</span></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://budgetnode.com/" target="_blank">BudgetNode</a></td>
+        	<td>NA<span class='tooltip'>Utah, USA<br></span></td>
+        	<td>250</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>0.5</td>
+        	<td>Yes</td>
+        	<td>Yes</td>
+        	<td>KVM</td>
+        	<td>$2</td>
+        	<td>$8</td>
+        	<td><a href="https://www.lowendtalk.com/discussion/136417/512mb-kvm-18-year-2gb-kvm-3-99-month-paid-yearly-500gb-kvm-storage-3-99-month-paid-yearly" target="_blank">LET Offer</a><span class="note">Out of Stock</span></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://buyvm.net/" target="_blank">BuyVM</a></td>
+        	<td>EU+NA<span class='tooltip'>Las Vegas, NV<br>Piscataway, NJ<br>Luxembourg<br></span></td>
+        	<td>250</td>
+        	<td>320</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>Yes</td>
+        	<td>Yes</td>
+        	<td>KVM</td>
+        	<td>$7</td>
+        	<td>$28</td>
+        	<td><a href="https://buyvm.net/storage-vps/" target="_blank">Order</a></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://crowncloud.net/" target="_blank">CrownCloud</a></td>
+        	<td>NA<span class='tooltip'>Los Angeles, CA<br></span></td>
+        	<td>500</td>
+        	<td>3</td>
+        	<td>1</td>
+        	<td>2</td>
+        	<td>0.5</td>
+        	<td>Yes</td>
+        	<td>Yes</td>
+        	<td>KVM</td>
+        	<td>$5</td>
+        	<td>$10</td>
+        	<td><a href="https://www.lowendtalk.com/discussion/139307/crowncloud-500-gb-kvm-storage-at-los-angeles-ca-5-month-or-25-semi-annually-more" target="_blank">LET Offer</a><a href="https://crowncloud.net/clients/cart.php?gid=36" target="_blank">Order</a><span class="coupon">'JY3HMLYW98'</span></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://hosting.gullo.me/" target="_blank">Gullo's Hosting</a></td>
+        	<td>EU+NA<span class='tooltip'>Montreal, CA<br>Germany<br></span></td>
+        	<td>250</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>0.5</td>
+        	<td>0.5</td>
+        	<td>NAT</td>
+        	<td>Yes</td>
+        	<td>OpenVZ</td>
+        	<td>$2.67</td>
+        	<td>$10.68</td>
+        	<td><a href="https://www.lowendtalk.com/discussion/141596/gullo-s-hosting-2-year-vps-hosting-pennsylvania-canada-germany-bulgaria-finland" target="_blank">LET Offer</a><a href="https://hosting.gullo.me/pricing" target="_blank">Order</a><span class="coupon">'LEB-NAT-250GB'</span></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://hosthatch.com/" target="_blank">HostHatch</a></td>
+        	<td>EU+NA<span class='tooltip'>Los Angeles, CA<br>Amsterdam, NL<br>Stockholm, SE<br></span></td>
+        	<td>250</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>0.5</td>
+        	<td>Yes</td>
+        	<td>?</td>
+        	<td>KVM</td>
+        	<td>$5</td>
+        	<td>$20</td>
+        	<td><a href="https://hosthatch.com/storage-vps" target="_blank">Order</a></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://www.hostsolutions.ro/" target="_blank">HostSolutions</a></td>
+        	<td>EU<span class='tooltip'>Romania<br></span></td>
+        	<td>1000</td>
+        	<td>10</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>Yes</td>
+        	<td>No</td>
+        	<td>OpenVZ</td>
+        	<td>$5.29</td>
+        	<td>$5.29</td>
+        	<td><a href="https://www.lowendtalk.com/discussion/128489/storage-1tb-hdd-10tb-traffic-1ipv4-1gbps-port-speed-located-in-romania-start-from-2-92-eur-mo" target="_blank">LET Offer</a><a href="https://www.hostsolutions.ro/eng/hosting/cheap-storage-vps" target="_blank">Order</a><span class="note">Out of Stock</span></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://hostus.us/" target="_blank">HostUS</a></td>
+        	<td>NA<span class='tooltip'>Charlotte, NC<br></span></td>
+        	<td>400</td>
+        	<td>2</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>0.5</td>
+        	<td>Yes</td>
+        	<td>Yes</td>
+        	<td>KVM</td>
+        	<td>$5.20</td>
+        	<td>$13</td>
+        	<td><a href="https://lowendbox.com/blog/hostus-new-storage-kvm-line-starting-10quarter-asia-openvz-25year-8-locations/" target="_blank">LEB Offer</a><span class="coupon">'LEBSTORAGE'</span><span class="note">Out of Stock</span></td>
+        </tr>
+
+        <tr>
+        	<td><a href="http://www.impactvps.com/" target="_blank">ImpactVPS</a></td>
+        	<td>NA<span class='tooltip'>Seattle, WA<br></span></td>
+        	<td>250</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>2</td>
+        	<td>1</td>
+        	<td>Yes</td>
+        	<td>No</td>
+        	<td>KVM</td>
+        	<td>$7</td>
+        	<td>$28</td>
+        	<td><a href="https://www.lowendtalk.com/discussion/87824/impact-vps-resource-pool-and-storage-servers-41-67-seattle-dallas-nyc" target="_blank">LET Offer</a><a href="https://subnetlabs.com/billing/cart.php?gid=11" target="_blank">Order</a><span class="coupon">'StorageLaunch'</span></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://i-83.net/" target="_blank">i-83</a></td>
+        	<td>EU+NA<span class='tooltip'>Montreal, CA<br>Charlotte, NC<br>Gravelines, France<br>London, United Kingdom<br></span></td>
+        	<td>250</td>
+        	<td>33</td>
+        	<td>0.1</td>
+        	<td>1</td>
+        	<td>0.5</td>
+        	<td>NAT</td>
+        	<td>Yes</td>
+        	<td>OpenVZ</td>
+        	<td>$2.25</td>
+        	<td>$9</td>
+        	<td><a href="https://quadhost.net/account/cart.php?gid=19" target="_blank">Order</a><span class="note">Out of Stock</span></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://www.liteserver.nl/" target="_blank">LiteServer</a></td>
+        	<td>EU<span class='tooltip'>Netherlands<br></span></td>
+        	<td>300</td>
+        	<td>3</td>
+        	<td>1</td>
+        	<td>2</td>
+        	<td>0.5</td>
+        	<td>Yes</td>
+        	<td>Yes</td>
+        	<td>OpenVZ</td>
+        	<td>$4.63</td>
+        	<td>$15.42</td>
+        	<td><a href="https://www.lowendtalk.com/discussion/133714/nl-premium-christmas-to-new-year-s-special-lifetime-30-off-on-all-our-vpses" target="_blank">LET Offer</a><a href="https://www.liteserver.nl/en/storage-vps-series-openvz-vps/" target="_blank">Order</a><span class="coupon">'30XMASBALLS'</span></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://mnx.io/" target="_blank">mnx.io</a></td>
+        	<td>NA<span class='tooltip'>Chicago, IL<br></span></td>
+        	<td>500</td>
+        	<td>2</td>
+        	<td>10</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>Yes</td>
+        	<td>No</td>
+        	<td>KVM</td>
+        	<td>$7</td>
+        	<td>$14</td>
+        	<td><a href="https://mnx.io/pricing/" target="_blank">Order</a></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://my.freecpanelsharedhosting.com/index.php" target="_blank">mrVM</a></td>
+        	<td>NA<span class='tooltip'>Lenoir, NC<br></span></td>
+        	<td>500</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>0.125</td>
+        	<td>NAT</td>
+        	<td>Yes</td>
+        	<td>OpenVZ</td>
+        	<td>$1.76</td>
+        	<td>$7.04</td>
+        	<td><a href="https://my.freecpanelsharedhosting.com/cart.php?gid=13" target="_blank">Order</a></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://securedragon.net/" target="_blank">Secure Dragon</a></td>
+        	<td>NA<span class='tooltip'>Tampa, FL<br></span></td>
+        	<td>250</td>
+        	<td>10</td>
+        	<td>1</td>
+        	<td>2</td>
+        	<td>0.5</td>
+        	<td>Yes</td>
+        	<td>Yes</td>
+        	<td>KVM</td>
+        	<td>$5.99</td>
+        	<td>$24</td>
+        	<td><a href="https://www.lowendtalk.com/discussion/128327/secure-dragon-s-new-kvm-storage-vpss-double-ram-special-starting-at-250gb-5-99" target="_blank">LET Offer</a><a href="https://securedragon.net/clients/cart.php?gid=49" target="_blank">Order</a></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://www.serverhub.com/" target="_blank">ServerHub</a></td>
+        	<td>EU+NA<span class='tooltip'>Chicago, IL<br>Dallas, TX<br>Phoenix, AZ<br>NYC, NY<br>Seattle, WA<br>Frankfurt, DE<br></span></td>
+        	<td>500</td>
+        	<td>1</td>
+        	<td>10</td>
+        	<td>2</td>
+        	<td>0.5</td>
+        	<td>Yes</td>
+        	<td>Yes</td>
+        	<td>OpenVZ</td>
+        	<td>$5</td>
+        	<td>$10</td>
+        	<td><a href="https://www.serverhub.com/vps/ssd-cached" target="_blank">Order</a></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://spartanhost.org/" target="_blank">SpartanHost</a></td>
+        	<td>NA<span class='tooltip'>Dallas, TX<br></span></td>
+        	<td>250</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>0.5</td>
+        	<td>Yes</td>
+        	<td>Yes</td>
+        	<td>KVM</td>
+        	<td>$3</td>
+        	<td>$12</td>
+        	<td><a href="https://www.lowendtalk.com/discussion/125954/dallas-spartan-host-storage-kvm-raid-10-gigabit-3-m-per-250gb" target="_blank">LET Offer</a><a href="https://spartanhost.org/vps#storage" target="_blank">Order</a><span class="coupon">'KVM40'</span><span class="note">Out of Stock</span></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://www.time4vps.eu/" target="_blank">Time4VPS</a></td>
+        	<td>EU<span class='tooltip'>Lithuania<br></span></td>
+        	<td>1000</td>
+        	<td>10</td>
+        	<td>0.1</td>
+        	<td>1</td>
+        	<td>0.5</td>
+        	<td>Yes</td>
+        	<td>Yes</td>
+        	<td>OpenVZ</td>
+        	<td>$6.47</td>
+        	<td>$6.47</td>
+        	<td><a href="https://www.lowendtalk.com/discussion/141488/time4vps-reliable-affordable-quality-instant-setup" target="_blank">LET Offer</a><a href="https://www.time4vps.eu/storage-servers/" target="_blank">Order</a></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://www.ultravps.eu/en/" target="_blank">UltraVPS</a></td>
+        	<td>EU<span class='tooltip'>Amsterdam, Netherlands<br></span></td>
+        	<td>750</td>
+        	<td>5</td>
+        	<td>10</td>
+        	<td>1</td>
+        	<td>1</td>
+        	<td>Yes</td>
+        	<td>Yes</td>
+        	<td>KVM</td>
+        	<td>$5</td>
+        	<td>$6.67</td>
+        	<td><a href="https://www.lowendtalk.com/discussion/139430/special-offers-in-march-new-london-cloud-location-now-available" target="_blank">LET Offer</a><a href="https://www.ultravps.eu/order/order.pl?cat=cloudserver_storage&lang=en" target="_blank">Order</a></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://vapornode.com/" target="_blank">VaporNode</a></td>
+        	<td>NA<span class='tooltip'>Tampa, FL<br></span></td>
+        	<td>400</td>
+        	<td>2</td>
+        	<td>1</td>
+        	<td>2</td>
+        	<td>1</td>
+        	<td>Yes</td>
+        	<td>Yes</td>
+        	<td>KVM</td>
+        	<td>$5</td>
+        	<td>$12</td>
+        	<td><a href="https://www.lowendtalk.com/discussion/130532/black-friday-vapornode-lxc-kvm-cloud-storage-tampa-florida" target="_blank">LET Offer</a><a href="https://portal.vapornode.com/?cmd=cart&action=add&id=159" target="_blank">Order</a></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://virmach.com/" target="_blank">VirMach</a></td>
+        	<td>NA<span class='tooltip'>Buffalo, NY<br></span></td>
+        	<td>500</td>
+        	<td>5</td>
+        	<td>10</td>
+        	<td>1</td>
+        	<td>0.5</td>
+        	<td>Yes</td>
+        	<td>No</td>
+        	<td>KVM</td>
+        	<td>$3.50</td>
+        	<td>$7</td>
+        	<td><a href="https://virmach.com/cloud-storage-servers/" target="_blank">Order</a><span class="note">Backordered</span></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://www.hostslim.eu/" target="_blank">VPSSLIM</a></td>
+        	<td>EU<span class='tooltip'>Netherlands<br></span></td>
+        	<td>400</td>
+        	<td>8</td>
+        	<td>1</td>
+        	<td>4</td>
+        	<td>8</td>
+        	<td>Yes</td>
+        	<td>Yes</td>
+        	<td>OpenVZ</td>
+        	<td>$12.41</td>
+        	<td>$31</td>
+        	<td><a href="https://clients.hostslim.eu/cart.php?a=add&pid=1070" target="_blank">Order</a><span class="coupon">'lowendstock'</span></td>
+        </tr>
+
+        <tr>
+        	<td><a href="https://www.wishosting.com/" target="_blank">Wishosting</a></td>
+        	<td>EU+NA<span class='tooltip'>Montreal, CA<br>Germany<br></span></td>
+        	<td>1800</td>
+        	<td>160</td>
+        	<td>0.5</td>
+        	<td>2</td>
+        	<td>1</td>
+        	<td>Yes</td>
+        	<td>No</td>
+        	<td>KVM</td>
+        	<td>$9.99</td>
+        	<td>$5.56</td>
+        	<td><a href="https://www.wishosting.com/order/main/packages/VPS/?group_id=2" target="_blank">Order</a><span class="coupon">'lowendstock'</span></td>
+        </tr>
+
+        <!-------------------------------------- END TABLE ROWS -------------------------------------->
+
+      </tbody>
+    </table>
+    <p id="copyright">The Yeti Protection Society &copy; 2017 - deadpool</p>
+    <script>
+      $(document).ready(function() {
+        t = $('#storage-table').DataTable({
+          fixedHeader: true,
+          select: true,
+          paging: false
+        });
+
+        $('a.toggle-vis').on( 'click', function (e) {
+          e.preventDefault();
+
+          // Get the column API object
+          var column = t.column( $(this).attr('data-column') );
+
+          // Toggle the visibility
+          column.visible( ! column.visible() );
+
+          // Add class
+          if ( $(this).is(".inactive") ) {
+            $(this).removeClass("inactive");
+          } else {
+            $(this).addClass("inactive");
+          }
+        } );
+
+        $('a.toggle-all').on('click', function (e) {
+          e.preventDefault();
+
+          $('a.toggle-vis').each(function() {
+            // Get the column API objects
+            var column = t.column( $(this).attr('data-column') );
+
+            // Set visibility
+            if (!column.visible()){
+              column.visible(true);
+            }
+
+            // Remove inactive class
+            if ( $(this).is(".inactive") ) {
+              $(this).removeClass("inactive");
+            }
+          });
+        });
+      });
+    </script>
+  </body>
+</html>

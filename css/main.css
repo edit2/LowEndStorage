@@ -1,0 +1,118 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: gray;
+  line-height: 1.42857143;
+}
+h5 a {
+  color: orange;
+}
+tbody {
+  font-size: 14px;
+}
+table {
+  text-align: center;
+  width: 80% !important;
+}
+table tbody tr td:last-child {
+  display: grid;
+}
+/* Doesn't work when columns are hidden
+table tbody tr td:nth-child(2) {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+*/
+.note {
+  font-size: 10px;
+  color: red;
+}
+.coupon {
+  font-size: 10px;
+  color: purple;
+}
+/* Tooltip text */
+.tooltip {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  font-size: 10px;
+  position: absolute;
+  z-index: 1;
+}
+/* Show the tooltip text when you mouse over the tooltip container */
+td:hover .tooltip {
+    visibility: visible;
+}
+table.dataTable.display tbody tr.odd {
+  background-color: #f0f0f0 !important;
+}
+table.dataTable.display tbody tr.selected {
+  background-color: #B0BED9 !important;
+}
+thead {
+  color: white;
+  background-color: orange;
+}
+.toggle-vis, .toggle-all {
+  background: #f9c372;
+  padding: 5px;
+  border-radius: 5%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+.toggle-vis:hover {
+  background: #f9ae3d;
+}
+.toggle-all {
+  background: #fe9f11;
+}
+.toggle-all:hover {
+  background: #c2c2c2;
+}
+.inactive {
+  background: #b4b4b4;
+}
+.inactive:hover{
+  background: #8f8f8f;
+}
+#toggle-cols {
+  font-size: 12px;
+  width: 100%;
+  text-align: center;
+}
+#toggle-cols p {
+  font-weight: bold;
+  color: white;
+  text-decoration: underline;
+}
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+#storage-table_filter {
+  margin-bottom: 10px;
+  margin-right: 5%;
+}
+#storage-table_filter label {
+  color: orange;
+  font-weight: bold;
+}
+#copyright {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+#storage-table_info {
+  text-align: center;
+  width: 100%;
+}
