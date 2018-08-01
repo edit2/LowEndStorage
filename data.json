@@ -511,7 +511,54 @@
         "link_desc": "Order",
         "link_url": "https://www.wishosting.com/order/main/packages/VPS/?group_id=2"
       }],
-      "Coupon": "lowendstock",
+      "Coupon": "",
+      "Note": ""
+    },
+    {
+      "Provider": "LetBox",
+      "Provider_URL": "http://letbox.com/",
+      "Region": "NA",
+      "Locations": "Los Angeles, CA",
+      "Space": "510",
+      "Bandwidth": "1",
+      "Port_Speed": "1",
+      "CPUs": "1",
+      "RAM": "1",
+      "IPv4": "Yes",
+      "IPv6": "?",
+      "VZ_Type": "KVM",
+      "Price": "$3.50",
+      "Value": "$7",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://my.letbox.com/cart.php?a=add&pid=67"
+      }],
+      "Coupon": "",
+      "Note": ""
+    },
+    {
+      "Provider": "LoveServers",
+      "Provider_URL": "https://loveservers.com/",
+      "Region": "EU",
+      "Locations": "Manchester, UK",
+      "Space": "250",
+      "Bandwidth": "1",
+      "Port_Speed": "1",
+      "CPUs": "1",
+      "RAM": "0.5 ",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "KVM",
+      "Price": "$5.50",
+      "Value": "$22",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://my.letbox.com/cart.php?a=add&pid=67"
+      }, {
+        "link_desc": "LET Offer",
+        "link_url": "https://www.lowendtalk.com/discussion/149678/manchester-uk-based-vps-storage-250gb-hdd-for-just-4-mo"
+      }],
+      "Coupon": "",
       "Note": ""
     }
   ]
