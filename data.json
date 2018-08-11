@@ -538,6 +538,160 @@
       }],
       "Coupon": "",
       "Note": ""
+    },
+    {
+      "Provider": "Smart2Host",
+      "Provider_URL": "https://smart2host.com/index.php",
+      "Region": "EU",
+      "Locations": "Bucharest, RO",
+      "Space": "500",
+      "Bandwidth": "320",
+      "Port_Speed": "1",
+      "CPUs": "2",
+      "RAM": "3",
+      "IPv4": "Yes",
+      "IPv6": "No",
+      "VZ_Type": "OpenVZ",
+      "Price": "$10",
+      "Value": "$20",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://smart2host.com/storage-vps.php"
+      }],
+      "Coupon": "",
+      "Note": ""
+    },
+    {
+      "Provider": "Hudson Valley Host",
+      "Provider_URL": "https://www.hudsonvalleyhost.com/index.php",
+      "Region": "NA",
+      "Locations": "Buffalo, NY",
+      "Space": "250",
+      "Bandwidth": "3",
+      "Port_Speed": "1",
+      "CPUs": "2",
+      "RAM": "0.5",
+      "IPv4": "Yes",
+      "IPv6": "No",
+      "VZ_Type": "OpenVZ",
+      "Price": "$8",
+      "Value": "$32",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://www.hudsonvalleyhost.com/storagevps.php"
+      }],
+      "Coupon": "",
+      "Note": ""
+    },
+    {
+      "Provider": "OpenVServers",
+      "Provider_URL": "https://www.openvservers.com/",
+      "Region": "EU",
+      "Locations": "Nuremberg, DE",
+      "Space": "250",
+      "Bandwidth": "1",
+      "Port_Speed": "1",
+      "CPUs": "1",
+      "RAM": "1",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "KVM",
+      "Price": "$7",
+      "Value": "$28",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://www.openvservers.com/vps/kvm/storage/nuremberg-germany/"
+      }],
+      "Coupon": "",
+      "Note": ""
+    },
+    {
+      "Provider": "Hostens",
+      "Provider_URL": "https://www.hostens.com/",
+      "Region": "EU",
+      "Locations": "Nuremberg, DE",
+      "Space": "512",
+      "Bandwidth": "2",
+      "Port_Speed": "0.1",
+      "CPUs": "1",
+      "RAM": "0.5",
+      "IPv4": "Yes",
+      "IPv6": "No",
+      "VZ_Type": "OpenVZ",
+      "Price": "$5",
+      "Value": "$10",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://billing.hostens.com/cart/vps-hosting/&step=0"
+      }],
+      "Coupon": "",
+      "Note": ""
+    },
+    {
+      "Provider": "SimpleNode",
+      "Provider_URL": "https://simplenode.co/",
+      "Region": "NA",
+      "Locations": "Dallas, TX",
+      "Space": "512",
+      "Bandwidth": "2",
+      "Port_Speed": "1",
+      "CPUs": "2",
+      "RAM": "1",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "KVM",
+      "Price": "$8",
+      "Value": "$16",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://simplenode.co/hostbill/cart/storage-vps/&step=0"
+      }],
+      "Coupon": "",
+      "Note": ""
+    },
+    {
+      "Provider": "INIZ",
+      "Provider_URL": "https://iniz.com/",
+      "Region": "EU+NA",
+      "Locations": "London, UK; Amsterdam, NL; Dallas, TX",
+      "Space": "512",
+      "Bandwidth": "2",
+      "Port_Speed": "1",
+      "CPUs": "1",
+      "RAM": "1",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "KVM",
+      "Price": "$3.83",
+      "Value": "$7.66",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://iniz.com/storage-vps"
+      }],
+      "Coupon": "",
+      "Note": "Out of Stock"
+    },
+    {
+      "Provider": "vpsdime",
+      "Provider_URL": "https://vpsdime.com/#home",
+      "Region": "EU+NA",
+      "Locations": "Maidenhead, UK; Amsterdam, NL; Piscataway, NJ; Dallas, TX; Seattle, WA; Los Angeles, CA",
+      "Space": "500",
+      "Bandwidth": "4",
+      "Port_Speed": "10",
+      "CPUs": "4",
+      "RAM": "2",
+      "IPv4": "Yes",
+      "IPv6": "No",
+      "VZ_Type": "OpenVZ",
+      "Price": "$7",
+      "Value": "$14",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://vpsdime.com/#tab3"
+      }],
+      "Coupon": "",
+      "Note": "Out of Stock"
     }
   ]
 }

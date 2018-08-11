@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## 2018-08-11
 ### Added
 - Added SpeedyKVM
+- Added Smart2Host
+- Added Hudson Valley Host
+- Added OpenVServers
+- Added Hostens
+- Added SimpleNode
+- Added INIZ
+- Added vpsdime
 
 ## 2018-08-01
 ### Added
