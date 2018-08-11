@@ -501,7 +501,7 @@
       "Bandwidth": "1",
       "Port_Speed": "1",
       "CPUs": "1",
-      "RAM": "0.5 ",
+      "RAM": "0.5",
       "IPv4": "Yes",
       "IPv6": "Yes",
       "VZ_Type": "KVM",
@@ -513,6 +513,29 @@
       }, {
         "link_desc": "Order",
         "link_url": "https://loveservers.com/clients/cart.php?a=add&pid=43"
+      }],
+      "Coupon": "",
+      "Note": ""
+    },
+    ,
+    {
+      "Provider": "SpeedyKVM",
+      "Provider_URL": "https://speedykvm.com/",
+      "Region": "NA",
+      "Locations": "Dallas, TX",
+      "Space": "1000",
+      "Bandwidth": "10",
+      "Port_Speed": "4",
+      "CPUs": "1",
+      "RAM": "1.6",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "KVM",
+      "Price": "$10",
+      "Value": "$10",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://speedykvm.com/billing/cart.php?gid=9"
       }],
       "Coupon": "",
       "Note": ""
