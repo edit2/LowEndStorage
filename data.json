@@ -70,6 +70,28 @@
       "Note": ""
     },
     {
+      "Provider": "Contabo",
+      "Provider_URL": "https://contabo.com/",
+      "Region": "EU",
+      "Locations": "Munich, Nuremberg - Germany",
+      "Space": "500",
+      "Bandwidth": "Unlimited",
+      "Port_Speed": "0.1",
+      "CPUs": "2",
+      "RAM": "6",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "KVM",
+      "Price": "8",
+      "Value": "16",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://contabo.com/?show=configurator&vserver_id=217"
+      }],
+      "Coupon": "",
+      "Note": ""
+    },
+    {
       "Provider": "CrownCloud",
       "Provider_URL": "https://crowncloud.net/",
       "Region": "NA",
