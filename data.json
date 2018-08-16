@@ -82,8 +82,8 @@
       "IPv4": "Yes",
       "IPv6": "Yes",
       "VZ_Type": "KVM",
-      "Price": "8",
-      "Value": "16",
+      "Price": "$8",
+      "Value": "$16",
       "Links": [{
         "link_desc": "Order",
         "link_url": "https://contabo.com/?show=configurator&vserver_id=217"
