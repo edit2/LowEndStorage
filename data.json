@@ -73,9 +73,9 @@
       "Provider": "Contabo",
       "Provider_URL": "https://contabo.com/",
       "Region": "EU",
-      "Locations": "Munich, Nuremberg - Germany",
+      "Locations": "Munich, DE; Nuremberg, DE",
       "Space": "500",
-      "Bandwidth": "Unlimited",
+      "Bandwidth": "33",
       "Port_Speed": "0.1",
       "CPUs": "2",
       "RAM": "6",
@@ -714,6 +714,28 @@
       }],
       "Coupon": "",
       "Note": "Out of Stock"
+    },
+    {
+      "Provider": "Swiftnode",
+      "Provider_URL": "https://swiftnode.net/",
+      "Region": "NA",
+      "Locations": "Los Angeles, CA",
+      "Space": "500",
+      "Bandwidth": "5",
+      "Port_Speed": "0.5",
+      "CPUs": "1",
+      "RAM": "0.5",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "KVM",
+      "Price": "$10",
+      "Value": "$20",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://clients.swiftnode.net/cart.php?a=add&pid=162"
+      }],
+      "Coupon": "",
+      "Note": ""
     }
   ]
 }
