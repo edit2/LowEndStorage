@@ -3,9 +3,16 @@ All notable changes to this project will (hopefully) be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+<<<<<<< HEAD
 ## 2018-09-14
 ### Added
 - Added Inception Hosting
+=======
+## 2018-08-16
+### Added
+- Added Contabo
+- Added Swiftnode
+>>>>>>> 194cfa00b9a96e19f63cd74ba90d6c4b55a60c85
 
 ## 2018-08-11
 ### Added

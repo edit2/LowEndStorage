@@ -70,6 +70,28 @@
       "Note": ""
     },
     {
+      "Provider": "Contabo",
+      "Provider_URL": "https://contabo.com/",
+      "Region": "EU",
+      "Locations": "Munich, DE; Nuremberg, DE",
+      "Space": "500",
+      "Bandwidth": "33",
+      "Port_Speed": "0.1",
+      "CPUs": "2",
+      "RAM": "6",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "KVM",
+      "Price": "$8",
+      "Value": "$16",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://contabo.com/?show=configurator&vserver_id=217"
+      }],
+      "Coupon": "",
+      "Note": ""
+    },
+    {
       "Provider": "CrownCloud",
       "Provider_URL": "https://crowncloud.net/",
       "Region": "NA",
@@ -694,6 +716,7 @@
       "Note": "Out of Stock"
     },
     {
+<<<<<<< HEAD
       "Provider": "Inception Hosting",
       "Provider_URL": "https://inceptionhosting.com/",
       "Region": "NA",
@@ -716,6 +739,27 @@
         "link_url": "https://www.lowendtalk.com/discussion/152113/storage-kvm-unmetered-inbound-bw-400-to-1600-gb-disk-phoenix-usa"
       }],
       "Coupon": "JT7MZ58ZK8",
+=======
+      "Provider": "Swiftnode",
+      "Provider_URL": "https://swiftnode.net/",
+      "Region": "NA",
+      "Locations": "Los Angeles, CA",
+      "Space": "500",
+      "Bandwidth": "5",
+      "Port_Speed": "0.5",
+      "CPUs": "1",
+      "RAM": "0.5",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "KVM",
+      "Price": "$10",
+      "Value": "$20",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://clients.swiftnode.net/cart.php?a=add&pid=162"
+      }],
+      "Coupon": "",
+>>>>>>> 194cfa00b9a96e19f63cd74ba90d6c4b55a60c85
       "Note": ""
     }
   ]
