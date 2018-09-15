@@ -3,6 +3,10 @@ All notable changes to this project will (hopefully) be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2018-09-14
+### Added
+- Added Inception Hosting
+
 ## 2018-08-11
 ### Added
 - Added SpeedyKVM

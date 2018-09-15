@@ -692,6 +692,31 @@
       }],
       "Coupon": "",
       "Note": "Out of Stock"
+    },
+    {
+      "Provider": "Inception Hosting",
+      "Provider_URL": "https://inceptionhosting.com/",
+      "Region": "NA",
+      "Locations": "Phoenix, AZ",
+      "Space": "400",
+      "Bandwidth": "2",
+      "Port_Speed": "1",
+      "CPUs": "1",
+      "RAM": "2",
+      "IPv4": "Yes",
+      "IPv6": "No",
+      "VZ_Type": "KVM",
+      "Price": "$6.11",
+      "Value": "$15.28",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://clients.inceptionhosting.com/cart.php?gid=30"
+      }, {
+        "link_desc": "LET Offer",
+        "link_url": "https://www.lowendtalk.com/discussion/152113/storage-kvm-unmetered-inbound-bw-400-to-1600-gb-disk-phoenix-usa"
+      }],
+      "Coupon": "JT7MZ58ZK8",
+      "Note": ""
     }
   ]
 }
