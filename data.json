@@ -716,7 +716,6 @@
       "Note": "Out of Stock"
     },
     {
-<<<<<<< HEAD
       "Provider": "Inception Hosting",
       "Provider_URL": "https://inceptionhosting.com/",
       "Region": "NA",
@@ -732,14 +731,16 @@
       "Price": "$6.11",
       "Value": "$15.28",
       "Links": [{
-        "link_desc": "Order",
-        "link_url": "https://clients.inceptionhosting.com/cart.php?gid=30"
-      }, {
         "link_desc": "LET Offer",
         "link_url": "https://www.lowendtalk.com/discussion/152113/storage-kvm-unmetered-inbound-bw-400-to-1600-gb-disk-phoenix-usa"
+      }, {
+        "link_desc": "Order",
+        "link_url": "https://clients.inceptionhosting.com/cart.php?gid=30"
       }],
       "Coupon": "JT7MZ58ZK8",
-=======
+      "Note": ""
+    },
+    {
       "Provider": "Swiftnode",
       "Provider_URL": "https://swiftnode.net/",
       "Region": "NA",
@@ -759,7 +760,6 @@
         "link_url": "https://clients.swiftnode.net/cart.php?a=add&pid=162"
       }],
       "Coupon": "",
->>>>>>> 194cfa00b9a96e19f63cd74ba90d6c4b55a60c85
       "Note": ""
     }
   ]
