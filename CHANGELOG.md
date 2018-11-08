@@ -3,16 +3,32 @@ All notable changes to this project will (hopefully) be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-<<<<<<< HEAD
+## 2018-11-08
+### Updated
+- BuyVM - replaced storage VPS lineup with new block storage offering
+- HostSolutions - back in stock
+- LiteServer - coupon expired
+- mrVM - updated homepage to new link
+- Secure Dragon - added coupon link;  updated latest LET thread link
+- UltraVPS - added Dusseldorf location
+- LetBox - added link to latest LET offer; updated info to 1TB offer since 500GB offer is OOS
+- LoveServers - updated latest LET thread link; added coupon code
+- OpenVServers - updated specs to match updated storage product
+- Hostens - updated specs/pricing to match updated storage product
+- INIZ - updated pricing
+- Inception Hosting - added UK location; updated LET and order links
+
+### Removed
+- vpsdime - no longer offering storage product
+
 ## 2018-09-14
 ### Added
 - Added Inception Hosting
-=======
+
 ## 2018-08-16
 ### Added
 - Added Contabo
 - Added Swiftnode
->>>>>>> 194cfa00b9a96e19f63cd74ba90d6c4b55a60c85
 
 ## 2018-08-11
 ### Added
