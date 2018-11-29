@@ -3,6 +3,16 @@ All notable changes to this project will (hopefully) be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2018-11-29
+### Updated
+- BuyVM - updated $/TB/mo pricing
+- Contabo - updated specs for new VPS lineup
+- Hostens - updated $/TB/mo pricing
+- Hudson Valley Host - updated $/TB/mo pricing
+- Secure Dragon - updated $/TB/mo pricing; product out of stock
+- Time4VPS - updated pricing
+- VirMach - no longer backordered
+
 ## 2018-11-08
 ### Updated
 - BuyVM - replaced storage VPS lineup with new block storage offering

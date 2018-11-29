@@ -61,7 +61,7 @@
       "IPv6": "Yes",
       "VZ_Type": "KVM",
       "Price": "$4.75",
-      "Value": "$19",
+      "Value": "$8.50",
       "Links": [{
         "link_desc": "LET Offer",
         "link_url": "https://www.lowendtalk.com/discussion/153301/buyvm-block-storage-slabs-1-25-mo-for-256gb-5-00-mo-for-1tb-cn2-gia-also-available/"
@@ -74,19 +74,19 @@
       "Provider_URL": "https://contabo.com/",
       "Region": "EU",
       "Locations": "Munich, DE; Nuremberg, DE",
-      "Space": "500",
+      "Space": "300",
       "Bandwidth": "33",
       "Port_Speed": "0.1",
       "CPUs": "2",
-      "RAM": "6",
+      "RAM": "4",
       "IPv4": "Yes",
       "IPv6": "Yes",
       "VZ_Type": "KVM",
-      "Price": "$8",
-      "Value": "$16",
+      "Price": "$4.55",
+      "Value": "$14.80",
       "Links": [{
         "link_desc": "Order",
-        "link_url": "https://contabo.com/?show=configurator&vserver_id=217"
+        "link_url": "https://contabo.com/?show=vps"
       }],
       "Coupon": "",
       "Note": ""
@@ -315,7 +315,7 @@
       "IPv6": "Yes",
       "VZ_Type": "KVM",
       "Price": "$5.99",
-      "Value": "$24",
+      "Value": "$14.99",
       "Links": [{
         "link_desc": "LET Offer",
         "link_url": "https://www.lowendtalk.com/discussion/151526/looking-for-backups-check-out-backupdragon-com-budget-backups-starting-at-7-50-year-10-off"
@@ -324,7 +324,7 @@
         "link_url": "https://securedragon.net/clients/cart.php?gid=49"
       }],
       "Coupon": "vps10",
-      "Note": ""
+      "Note": "Out of Stock"
     },
     {
       "Provider": "ServerHub",
@@ -386,8 +386,8 @@
       "IPv4": "Yes",
       "IPv6": "Yes",
       "VZ_Type": "OpenVZ",
-      "Price": "$6.09",
-      "Value": "$6.09",
+      "Price": "$6",
+      "Value": "$6",
       "Links": [{
         "link_desc": "LET Offer",
         "link_url": "https://www.lowendtalk.com/discussion/148079/time4vps-affordable-small-packages-instant-setup-up-to-1-gbps"
@@ -468,7 +468,7 @@
         "link_url": "https://virmach.com/cloud-storage-servers/"
       }],
       "Coupon": "",
-      "Note": "Backordered"
+      "Note": ""
     },
     {
       "Provider": "Wishosting",
@@ -600,7 +600,7 @@
       "IPv6": "No",
       "VZ_Type": "OpenVZ",
       "Price": "$8",
-      "Value": "$32",
+      "Value": "$30",
       "Links": [{
         "link_desc": "Order",
         "link_url": "https://hudsonvalleyhost.com/storagevps.php"
@@ -622,7 +622,7 @@
       "IPv6": "Yes",
       "VZ_Type": "KVM",
       "Price": "$5",
-      "Value": "$20",
+      "Value": "$10",
       "Links": [{
         "link_desc": "Order",
         "link_url": "https://www.openvservers.com/vps/kvm/storage/nuremberg-germany/"
@@ -644,7 +644,7 @@
       "IPv6": "No",
       "VZ_Type": "OpenVZ",
       "Price": "$4",
-      "Value": "$8",
+      "Value": "$6",
       "Links": [{
         "link_desc": "Order",
         "link_url": "https://billing.hostens.com/cart/vps-hosting/&step=0"
