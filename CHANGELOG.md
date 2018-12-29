@@ -3,6 +3,10 @@ All notable changes to this project will (hopefully) be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2018-12-28
+### Updated
+- BudgetNode - storage vps out of stock
+
 ## 2018-11-29
 ### Updated
 - BuyVM - updated $/TB/mo pricing
