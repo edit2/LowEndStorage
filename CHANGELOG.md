@@ -3,6 +3,20 @@ All notable changes to this project will (hopefully) be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2019-02-10
+### Updated
+- CrownCloud - updated link to LET offer; added DE location; removed expired coupon
+- HostSolutions - updated pricing (EUR -> USD conversion)
+- InceptionHosting - updated link to LET offer; removed expired coupon
+- LetBox - updated specs to new storage offer; updated LET offer link; updated pricing; added Dallas location
+- LiteServer - updated link to LET offer
+- LoveServers - updated link to LET offer; updated pricing (GBP -> USD conversion)
+- mrVM - product out of stock
+- Secure Dragon - updated specs to match new OVZ lineup (KVM discontinued); updated LET link; updated pricing; removed expired coupon; product in stock
+- SimpleNode - added coupon; updated pricing to reflect discount
+- Smart2Host - product out of stock
+- SpartanHost - product in stock
+
 ## 2018-12-28
 ### Updated
 - BudgetNode - storage vps out of stock

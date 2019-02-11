@@ -94,8 +94,8 @@
     {
       "Provider": "CrownCloud",
       "Provider_URL": "https://crowncloud.net/",
-      "Region": "NA",
-      "Locations": "Los Angeles, CA",
+      "Region": "EU+NA",
+      "Locations": "Frankfurt, DE; Los Angeles, CA",
       "Space": "500",
       "Bandwidth": "3",
       "Port_Speed": "1",
@@ -108,12 +108,12 @@
       "Value": "$10",
       "Links": [{
         "link_desc": "LET Offer",
-        "link_url": "https://www.lowendtalk.com/discussion/139307/crowncloud-500-gb-kvm-storage-at-los-angeles-ca-5-month-or-25-semi-annually-more"
+        "link_url": "https://www.lowendtalk.com/discussion/154889/crowncloud-1000-gb-hdd-kvm-storage-at-frankfurt-los-angeles-7-month-more"
       }, {
         "link_desc": "Order",
         "link_url": "https://crowncloud.net/clients/cart.php?gid=36"
         }],
-      "Coupon": "JY3HMLYW98",
+      "Coupon": "",
       "Note": ""
     },
     {
@@ -173,8 +173,8 @@
       "IPv4": "Yes",
       "IPv6": "No",
       "VZ_Type": "OpenVZ",
-      "Price": "$5.29",
-      "Value": "$5.29",
+      "Price": "$5.10",
+      "Value": "$5.10",
       "Links": [{
         "link_desc": "LET Offer",
         "link_url": "https://www.lowendtalk.com/discussion/147206/vps-1-99-eur-mo-dedi-14-5-eur-mo-storage-vps-1tb-4-5-eur-mo-located-in-romania-limited-offer"
@@ -271,7 +271,7 @@
       "Value": "$19.07",
       "Links": [{
         "link_desc": "LET Offer",
-        "link_url": "https://www.lowendtalk.com/discussion/133714/nl-premium-christmas-to-new-year-s-special-lifetime-30-off-on-all-our-vpses"
+        "link_url": "https://www.lowendtalk.com/discussion/153780/nl-lifetime-recurring-black-friday-to-cyber-monday-deals-nvme-launch-up-to-70-off"
       }, {
         "link_desc": "Order",
         "link_url": "https://www.liteserver.nl/en/storage-vps-series-openvz-vps/"
@@ -299,32 +299,32 @@
         "link_url": "https://clients.mrvm.net/cart.php?gid=12"
       }],
       "Coupon": "",
-      "Note": ""
+      "Note": "Out of Stock"
     },
     {
       "Provider": "Secure Dragon",
       "Provider_URL": "https://securedragon.net/",
       "Region": "NA",
       "Locations": "Tampa, FL",
-      "Space": "250",
+      "Space": "500",
       "Bandwidth": "10",
       "Port_Speed": "1",
       "CPUs": "2",
-      "RAM": "0.5",
+      "RAM": "1",
       "IPv4": "Yes",
       "IPv6": "Yes",
-      "VZ_Type": "KVM",
-      "Price": "$5.99",
-      "Value": "$14.99",
+      "VZ_Type": "OpenVZ",
+      "Price": "$6.99",
+      "Value": "$10.99",
       "Links": [{
         "link_desc": "LET Offer",
-        "link_url": "https://www.lowendtalk.com/discussion/151526/looking-for-backups-check-out-backupdragon-com-budget-backups-starting-at-7-50-year-10-off"
+        "link_url": "https://www.lowendtalk.com/discussion/153718/need-some-storage-this-black-friday-backupdragon-com-has-you-covered-250gb-2-99-500gb-3-99"
       }, {
         "link_desc": "Order",
-        "link_url": "https://securedragon.net/clients/cart.php?gid=49"
+        "link_url": "https://securedragon.net/clients/cart.php?gid=4"
       }],
-      "Coupon": "vps10",
-      "Note": "Out of Stock"
+      "Coupon": "",
+      "Note": ""
     },
     {
       "Provider": "ServerHub",
@@ -371,7 +371,7 @@
         "link_url": "https://spartanhost.org/vps#storage"
       }],
       "Coupon": "KVM40",
-      "Note": "Out of Stock"
+      "Note": ""
     },
     {
       "Provider": "Time4VPS",
@@ -415,7 +415,7 @@
       "Value": "$5.33",
       "Links": [{
         "link_desc": "LET Offer",
-        "link_url": "https://www.lowendtalk.com/discussion/145928/ultravps-eu-storage-vms-now-also-available-in-germany"
+        "link_url": "https://www.lowendtalk.com/discussion/153728/ultravps-eu-black-friday-deals-2018"
       }, {
         "link_desc": "Order",
         "link_url": "https://www.ultravps.eu/order/order.pl?cat=cloudserver_storage&lang=en"
@@ -496,23 +496,23 @@
       "Provider": "LetBox",
       "Provider_URL": "http://letbox.com/",
       "Region": "NA",
-      "Locations": "Los Angeles, CA",
-      "Space": "1020",
+      "Locations": "Dallas, TX; Los Angeles, CA",
+      "Space": "256",
       "Bandwidth": "2",
       "Port_Speed": "1",
-      "CPUs": "2",
-      "RAM": "2",
+      "CPUs": "1",
+      "RAM": "1",
       "IPv4": "Yes",
       "IPv6": "Yes",
       "VZ_Type": "KVM",
-      "Price": "$7",
-      "Value": "$7",
+      "Price": "$3.50",
+      "Value": "$8.50",
       "Links": [{
         "link_desc": "LET Offer",
-        "link_url": "https://www.lowendtalk.com/discussion/152637/new-nvme-block-storage"
+        "link_url": "https://www.lowendtalk.com/discussion/154833/happy-new-year-nvme-block-storage-bbox-kvm-double-rams-cpu-now-in-dallas"
       }, {
         "link_desc": "Order",
-        "link_url": "https://my.letbox.com/cart.php?a=add&pid=67"
+        "link_url": "https://letbox.com/page/box"
       }],
       "Coupon": "",
       "Note": ""
@@ -530,11 +530,11 @@
       "IPv4": "Yes",
       "IPv6": "Yes",
       "VZ_Type": "KVM",
-      "Price": "$5.50",
-      "Value": "$22",
+      "Price": "$5.18",
+      "Value": "$21",
       "Links": [{
         "link_desc": "LET Offer",
-        "link_url": "https://www.lowendtalk.com/discussion/152313/manchester-uk-based-vps-storage-250gb-hdd-for-just-4-mo"
+        "link_url": "https://www.lowendtalk.com/discussion/153481/manchester-uk-based-vps-storage-250gb-hdd-for-just-4-mo-or-40-year"
       }, {
         "link_desc": "Order",
         "link_url": "https://loveservers.com/clients/cart.php?a=add&pid=43"
@@ -584,7 +584,7 @@
         "link_url": "https://smart2host.com/storage-vps.php"
       }],
       "Coupon": "",
-      "Note": ""
+      "Note": "Out of Stock"
     },
     {
       "Provider": "Hudson Valley Host",
@@ -665,13 +665,13 @@
       "IPv4": "Yes",
       "IPv6": "Yes",
       "VZ_Type": "KVM",
-      "Price": "$8",
-      "Value": "$16",
+      "Price": "$6",
+      "Value": "$12",
       "Links": [{
         "link_desc": "Order",
         "link_url": "https://simplenode.co/hostbill/cart/storage-vps/&step=0"
       }],
-      "Coupon": "",
+      "Coupon": "STORAGE25",
       "Note": ""
     },
     {
@@ -713,7 +713,7 @@
       "Value": "$15",
       "Links": [{
         "link_desc": "LET Offer",
-        "link_url": "https://www.lowendtalk.com/discussion/153068/storage-kvm-dedicated-cpu-unmetered-bw-400-to-1600-gb-disk-phoenix-usa-london-uk-live"
+        "link_url": "https://www.lowendtalk.com/discussion/155074/storage-kvm-dedicated-cpu-unmetered-bw-400-to-1600-gb-disk-phoenix-usa-london-uk"
       }, {
         "link_desc": "Order (NA)",
         "link_url": "https://clients.inceptionhosting.com/cart.php?gid=30"
@@ -721,7 +721,7 @@
         "link_desc": "Order (EU)",
         "link_url": "https://clients.inceptionhosting.com/cart.php?gid=31"
       }],
-      "Coupon": "JT7MZ58ZK8",
+      "Coupon": "",
       "Note": ""
     },
     {
