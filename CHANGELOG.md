@@ -3,6 +3,19 @@ All notable changes to this project will (hopefully) be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2019-06-08
+### Added
+- Added ServaRICA
+
+### Updated
+- HostUS - product in stock
+- HudsonValleyHost - updated order link
+- LoveServers - updated pricing (GBP -> USD conversion)
+- mrVM - product in stock
+- SecureDragon - updated price and specs
+- SpartanHost - product out of stock
+- VirMach - product out of stock
+
 ## 2019-02-10
 ### Updated
 - CrownCloud - updated link to LET offer; added DE location; removed expired coupon

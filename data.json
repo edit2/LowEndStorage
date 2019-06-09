@@ -205,7 +205,7 @@
         "link_url": "https://lowendbox.com/blog/hostus-new-storage-kvm-line-starting-10quarter-asia-openvz-25year-8-locations/"
       }],
       "Coupon": "LEBSTORAGE",
-      "Note": "Out of Stock"
+      "Note": ""
     },
     {
       "Provider": "ImpactVPS",
@@ -299,23 +299,23 @@
         "link_url": "https://clients.mrvm.net/cart.php?gid=12"
       }],
       "Coupon": "",
-      "Note": "Out of Stock"
+      "Note": ""
     },
     {
       "Provider": "Secure Dragon",
       "Provider_URL": "https://securedragon.net/",
       "Region": "NA",
       "Locations": "Tampa, FL",
-      "Space": "500",
-      "Bandwidth": "10",
+      "Space": "1000",
+      "Bandwidth": "4",
       "Port_Speed": "1",
       "CPUs": "2",
-      "RAM": "1",
+      "RAM": "4",
       "IPv4": "Yes",
       "IPv6": "Yes",
       "VZ_Type": "OpenVZ",
-      "Price": "$6.99",
-      "Value": "$10.99",
+      "Price": "$6",
+      "Value": "$6",
       "Links": [{
         "link_desc": "LET Offer",
         "link_url": "https://www.lowendtalk.com/discussion/153718/need-some-storage-this-black-friday-backupdragon-com-has-you-covered-250gb-2-99-500gb-3-99"
@@ -371,7 +371,7 @@
         "link_url": "https://spartanhost.org/vps#storage"
       }],
       "Coupon": "KVM40",
-      "Note": ""
+      "Note": "Out of Stock"
     },
     {
       "Provider": "Time4VPS",
@@ -468,7 +468,7 @@
         "link_url": "https://virmach.com/cloud-storage-servers/"
       }],
       "Coupon": "",
-      "Note": ""
+      "Note": "Out of Stock"
     },
     {
       "Provider": "Wishosting",
@@ -530,8 +530,8 @@
       "IPv4": "Yes",
       "IPv6": "Yes",
       "VZ_Type": "KVM",
-      "Price": "$5.18",
-      "Value": "$21",
+      "Price": "$4.10",
+      "Value": "$16.40",
       "Links": [{
         "link_desc": "LET Offer",
         "link_url": "https://www.lowendtalk.com/discussion/153481/manchester-uk-based-vps-storage-250gb-hdd-for-just-4-mo-or-40-year"
@@ -603,7 +603,7 @@
       "Value": "$30",
       "Links": [{
         "link_desc": "Order",
-        "link_url": "https://hudsonvalleyhost.com/storagevps.php"
+        "link_url": "https://hudsonvalleyhost.com/storage-based-vps/"
       }],
       "Coupon": "",
       "Note": ""
@@ -744,6 +744,28 @@
         "link_url": "https://clients.swiftnode.net/cart.php?a=add&pid=162"
       }],
       "Coupon": "",
+      "Note": ""
+    },
+    {
+      "Provider": "ServaRICA",
+      "Provider_URL": "https://servarica.com/",
+      "Region": "NA",
+      "Locations": "Montreal, CA",
+      "Space": "2000",
+      "Bandwidth": "33",
+      "Port_Speed": "0.1",
+      "CPUs": "1",
+      "RAM": "1",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "Xen",
+      "Price": "$10",
+      "Value": "$5",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://servarica.com/clients/cart.php?a=add&pid=344&promocode=LEBSTORAGEEXCLUSIVE"
+      }],
+      "Coupon": "LEBSTORAGEEXCLUSIVE",
       "Note": ""
     }
   ]
