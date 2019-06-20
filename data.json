@@ -767,6 +767,31 @@
       }],
       "Coupon": "LEBSTORAGEEXCLUSIVE",
       "Note": ""
+    },
+    {
+      "Provider": "SmartHost",
+      "Provider_URL": "https://www.smarthost.net/",
+      "Region": "NA",
+      "Locations": "Las Vegas, NV",
+      "Space": "1024",
+      "Bandwidth": "5",
+      "Port_Speed": "1",
+      "CPUs": "1",
+      "RAM": "1",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "KVM",
+      "Price": "$7",
+      "Value": "$7",
+      "Links": [{
+        "link_desc": "LET Offer",
+        "link_url": "https://www.lowendtalk.com/discussion/158248/smarthost-kvm-linux-storage-vps-only-6-95-month-w-1tb-only-5-1tb-added"
+      }, {
+        "link_desc": "Order",
+        "link_url": "https://www.smarthost.net/cart.php?a=add&pid=183&ims=letvps"
+      }],
+      "Coupon": "",
+      "Note": ""
     }
   ]
 }
