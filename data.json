@@ -587,28 +587,6 @@
       "Note": "Out of Stock"
     },
     {
-      "Provider": "Hudson Valley Host",
-      "Provider_URL": "https://www.hudsonvalleyhost.com/index.php",
-      "Region": "NA",
-      "Locations": "Buffalo, NY",
-      "Space": "250",
-      "Bandwidth": "3",
-      "Port_Speed": "1",
-      "CPUs": "2",
-      "RAM": "0.5",
-      "IPv4": "Yes",
-      "IPv6": "No",
-      "VZ_Type": "OpenVZ",
-      "Price": "$8",
-      "Value": "$30",
-      "Links": [{
-        "link_desc": "Order",
-        "link_url": "https://hudsonvalleyhost.com/storage-based-vps/"
-      }],
-      "Coupon": "",
-      "Note": ""
-    },
-    {
       "Provider": "OpenVServers",
       "Provider_URL": "https://www.openvservers.com/",
       "Region": "EU",
