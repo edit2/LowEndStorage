@@ -5,7 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## 2019-06-24
 ### Removed
-- Added HudsonValleyHost due to philosophical differences
+- Removed HudsonValleyHost due to philosophical differences
 
 ## 2019-06-19
 ### Added
