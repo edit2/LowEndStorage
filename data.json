@@ -770,6 +770,28 @@
       }],
       "Coupon": "",
       "Note": ""
+    },
+    {
+      "Provider": "TeraDelta",
+      "Provider_URL": "https://www.teradelta.com/",
+      "Region": "NA",
+      "Locations": "Las Vegas",
+      "Space": "1024",
+      "Bandwidth": "5",
+      "Port_Speed": "1",
+      "CPUs": "1",
+      "RAM": "1",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "KVM",
+      "Price": "$7",
+      "Value": "$7",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://my.teradelta.com/order/config/index/kvm-storage-usa/?group_id=10&pricing_id=41"
+      }],
+      "Coupon": "",
+      "Note": ""
     }
   ]
 }
