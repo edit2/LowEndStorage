@@ -788,7 +788,7 @@
       "Value": "$7",
       "Links": [{
         "link_desc": "Order",
-        "link_url": "https://my.teradelta.com/order/config/index/kvm-storage-usa/?group_id=10&pricing_id=41"
+        "link_url": "https://portal.teradelta.com/cart.php?a=add&pid=8"
       }],
       "Coupon": "",
       "Note": ""
