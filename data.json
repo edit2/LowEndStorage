@@ -139,6 +139,28 @@
       "Note": ""
     },
     {
+      "Provider": "HostDoc",
+      "Provider_URL": "https://hostdoc.co.uk/",
+      "Region": "NA",
+      "Locations": "Dallas, TX",
+      "Space": "1024",
+      "Bandwidth": "3",
+      "Port_Speed": "1",
+      "CPUs": "1",
+      "RAM": "1",
+      "IPv4": "Yes",
+      "IPv6": "?",
+      "VZ_Type": "KVM",
+      "Price": "$5.12",
+      "Value": "$5.12",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://clientsarea.hostdoc.co.uk/cart.php?a=confproduct&i=1"
+      }],
+      "Coupon": "",
+      "Note": "£3.95/m"
+    },
+    {
       "Provider": "HostHatch",
       "Provider_URL": "https://hosthatch.com/",
       "Region": "EU+NA",

@@ -3,6 +3,10 @@ All notable changes to this project will (hopefully) be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2019-07-15
+### Added
+- Added HostDoc
+
 ## 2019-11-03
 ### Updated
 - Changed contact info for github (index.html: masonr -> edit2) and LET (README.md: MasonR -> uptime)
