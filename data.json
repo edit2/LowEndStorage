@@ -518,26 +518,26 @@
       "Provider": "LetBox",
       "Provider_URL": "http://letbox.com/",
       "Region": "NA",
-      "Locations": "Dallas, TX; Los Angeles, CA",
+      "Locations": "Los Angeles, CA",
       "Space": "256",
-      "Bandwidth": "2",
+      "Bandwidth": "5",
       "Port_Speed": "1",
       "CPUs": "1",
       "RAM": "1",
       "IPv4": "Yes",
       "IPv6": "Yes",
       "VZ_Type": "KVM",
-      "Price": "$3.50",
-      "Value": "$8.50",
+      "Price": "$3.00",
+      "Value": "$12",
       "Links": [{
         "link_desc": "LET Offer",
-        "link_url": "https://www.lowendtalk.com/discussion/154833/happy-new-year-nvme-block-storage-bbox-kvm-double-rams-cpu-now-in-dallas"
+        "link_url": "https://www.lowendtalk.com/discussion/comment/3037917/#Comment_3037917"
       }, {
         "link_desc": "Order",
-        "link_url": "https://letbox.com/page/box"
+        "link_url": "https://my.letbox.com/cart.php?a=add&pid=109"
       }],
       "Coupon": "",
-      "Note": ""
+      "Note": "upgradable - Black Friday preview!"
     },
     {
       "Provider": "LoveServers",
