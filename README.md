@@ -29,7 +29,7 @@ There are multiple ways that you can help contribute to this project to propose 
 1. Fork the project, make your edits, and submit a Pull Request. Please conform to the json structure indicated below.
 2. Open a GitHub issue with details on the edits you'd like to see incorporated. Be as specific as possible and include all relevant information (i.e. fields for the json structure if submitting an addition).
 3. Email me with your proposed changes.
-4. [PM me on LowEndTalk](https://www.lowendtalk.com/profile/MasonR) or post in the [LowEndStorage.win LET thread](https://www.lowendtalk.com/discussion/129707/introducing-lowendstorage-win-a-comprehensive-list-of-lowend-storage-vps-providers).
+4. [PM me on LowEndTalk](https://www.lowendtalk.com/profile/uptime) or post in the [LowEndStorage.win LET thread](https://www.lowendtalk.com/discussion/129707/introducing-lowendstorage-win-a-comprehensive-list-of-lowend-storage-vps-providers).
 
 ## Data json Structure
 
