@@ -96,25 +96,28 @@
       "Provider_URL": "https://crowncloud.net/",
       "Region": "EU+NA",
       "Locations": "Frankfurt, DE; Los Angeles, CA",
-      "Space": "500",
-      "Bandwidth": "3",
+      "Space": "1000",
+      "Bandwidth": "6",
       "Port_Speed": "1",
       "CPUs": "2",
       "RAM": "0.5",
       "IPv4": "Yes",
       "IPv6": "Yes",
       "VZ_Type": "KVM",
-      "Price": "$5",
-      "Value": "$10",
+      "Price": "$7",
+      "Value": "$7",
       "Links": [{
         "link_desc": "LET Offer",
-        "link_url": "https://www.lowendtalk.com/discussion/154889/crowncloud-1000-gb-hdd-kvm-storage-at-frankfurt-los-angeles-7-month-more"
+        "link_url": "https://www.lowendtalk.com/discussion/156395/crowncloud-1000-gb-hdd-kvm-storage-at-frankfurt-los-angeles-7-month-more/p1"
       }, {
-        "link_desc": "Order",
-        "link_url": "https://crowncloud.net/clients/cart.php?gid=36"
+        "link_desc": "Order Frankfurt",
+        "link_url": "https://crowncloud.net/clients/cart.php?a=add&pid=360"
+      }, {
+        "link_desc": "Order Los Angeles",
+        "link_url": "https://crowncloud.net/clients/cart.php?a=add&pid=309"
         }],
       "Coupon": "",
-      "Note": ""
+      "Note": "500 GB plan also available"
     },
     {
       "Provider": "Gullo's Hosting",
