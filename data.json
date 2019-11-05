@@ -525,7 +525,7 @@
       "CPUs": "1",
       "RAM": "1",
       "IPv4": "Yes",
-      "IPv6": "Yes",
+      "IPv6": "?",
       "VZ_Type": "KVM",
       "Price": "$3.00",
       "Value": "$12",
@@ -537,7 +537,7 @@
         "link_url": "https://my.letbox.com/cart.php?a=add&pid=109"
       }],
       "Coupon": "",
-      "Note": "upgradable - Black Friday preview!"
+      "Note": "Out of Stock"
     },
     {
       "Provider": "LoveServers",
@@ -811,6 +811,31 @@
       "Links": [{
         "link_desc": "Order",
         "link_url": "https://portal.teradelta.com/cart.php?a=add&pid=8"
+      }],
+      "Coupon": "",
+      "Note": ""
+    }
+    {
+      "Provider": "TNAHosting",
+      "Provider_URL": "https://tnahosting.net/",
+      "Region": "NA",
+      "Locations": "Chicago, IL",
+      "Space": "400",
+      "Bandwidth": "10",
+      "Port_Speed": "1",
+      "CPUs": "1",
+      "RAM": "6",
+      "IPv4": "Yes",
+      "IPv6": "No",
+      "VZ_Type": "OpenVZ 7",
+      "Price": "$5",
+      "Value": "$12.50",
+      "Links": [{
+        "link_desc": "LET Offer",
+        "link_url": "https://www.lowendtalk.com/discussion/161142/6gb-ram-400gb-hdd-5-m-raspberry-pi-colo-6-m-chicago-il/p1"
+      }, {
+        "link_desc": "Order",
+        "link_url": "https://tnahosting.net/billing/cart.php?a=add&pid=54"
       }],
       "Coupon": "",
       "Note": ""
