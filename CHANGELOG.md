@@ -3,6 +3,14 @@ All notable changes to this project will (hopefully) be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2019-11-05
+### Added
+- Added TNAHosting
+
+### Updated
+- Changed CrownCloud entry to 1000 GB offer
+- LetBox - "SB1" out of stock
+
 ## 2019-11-04
 ### Updated
 - LetBox - "SB1" Black Friday Preview
