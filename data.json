@@ -1,6 +1,31 @@
 {
   "data": [
     {
+      "Provider": "AlphaVPS.bg",
+      "Provider_URL": "https://alphavps.bg/",
+      "Region": "EU",
+      "Locations": "Sofia, BG",
+      "Space": "1024",
+      "Bandwidth": "3",
+      "Port_Speed": "1",
+      "CPUs": "2",
+      "RAM": "2",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "KVM",
+      "Price": "$5.53",
+      "Value": "$5.53",
+      "Links": [{
+        "link_desc": "LET Offer",
+        "link_url": "https://www.lowendtalk.com/discussion/159825/alphavps-openvz-and-kvm-out-of-5-locations-big-variety-of-dedicated-servers/p1"
+      }, {
+        "link_desc": "Order",
+        "link_url": "https://alphavps.bg/clients/cart.php?a=confproduct&i=0"
+      }],
+      "Coupon": "",
+      "Note": "EUR 5/m"
+    },
+    {
       "Provider": "Backupsy",
       "Provider_URL": "https://backupsy.com/",
       "Region": "EU+NA",
