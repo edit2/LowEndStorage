@@ -222,18 +222,18 @@
       "RAM": "1",
       "IPv4": "Yes",
       "IPv6": "No",
-      "VZ_Type": "OpenVZ",
-      "Price": "$5.10",
-      "Value": "$5.10",
+      "VZ_Type": "KVM",
+      "Price": "$6.45",
+      "Value": "$6.45",
       "Links": [{
         "link_desc": "LET Offer",
-        "link_url": "https://www.lowendtalk.com/discussion/147206/vps-1-99-eur-mo-dedi-14-5-eur-mo-storage-vps-1tb-4-5-eur-mo-located-in-romania-limited-offer"
+        "link_url": "https://www.lowendtalk.com/discussion/160649/storage-kvm-romania-1gbps-ddos-protection-included-start-from-1-66-eur-1tb-limited-offer/p1"
       }, {
         "link_desc": "Order",
-        "link_url": "https://www.hostsolutions.ro/eng/hosting/cheap-storage-vps"
+        "link_url": "https://secure.hostsolutions.ro/cart.php?a=add&pid=402&currency=1&language=en"
         }],
-      "Coupon": "",
-      "Note": ""
+      "Coupon": "kvm10%",
+      "Note": "EUR 6.50/m before coupon"
     },
     {
       "Provider": "HostUS",
@@ -590,7 +590,7 @@
         "link_url": "https://my.letbox.com/cart.php?a=add&pid=109"
       }],
       "Coupon": "",
-      "Note": ""
+      "Note": "Out of Stock"
     },
     {
       "Provider": "LoveServers",
