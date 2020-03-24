@@ -777,6 +777,28 @@
       "Coupon": "",
       "Note": ""
     },
+	{
+      "Provider": "ServaRICA",
+      "Provider_URL": "https://servarica.com/",
+      "Region": "NA",
+      "Locations": "Montreal, CA",
+      "Space": "3000",
+      "Bandwidth": "33",
+      "Port_Speed": "0.1",
+      "CPUs": "3",
+      "RAM": "3",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "Xen",
+      "Price": "$10",
+      "Value": "$3.33",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://servarica.com/clients/cart.php?a=add&pid=444"
+      }],
+      "Coupon": "",
+      "Note": ""
+    },
     {
       "Provider": "ServaRICA",
       "Provider_URL": "https://servarica.com/",
