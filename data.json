@@ -870,6 +870,28 @@
       }],
       "Coupon": "",
       "Note": ""
+    },
+    {
+      "Provider": "Kimsufi",
+      "Provider_URL": "https://www.kimsufi.com/us/en/",
+      "Region": "EU",
+      "Locations": "France",
+      "Space": "2000",
+      "Bandwidth": "Unlimited",
+      "Port_Speed": "0.1",
+      "CPUs": "1",
+      "RAM": "4",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "OpenVZ",
+      "Price": "$9,99",
+      "Value": "$4.5",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://www.kimsufi.com/us/en/order/kimsufi.xml?reference=1801sk14"
+      }],
+      "Coupon": "",
+      "Note": "$11.99 one-time upfront installation cost"
     }
   ]
 }
