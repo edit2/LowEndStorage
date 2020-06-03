@@ -828,7 +828,7 @@
       "Provider": "TeraDelta",
       "Provider_URL": "https://www.teradelta.com/",
       "Region": "NA",
-      "Locations": "Las Vegas, NV",
+      "Locations": "Los Angeles, CA",
       "Space": "1024",
       "Bandwidth": "5",
       "Port_Speed": "1",
@@ -841,7 +841,7 @@
       "Value": "$7",
       "Links": [{
         "link_desc": "Order",
-        "link_url": "https://portal.teradelta.com/cart.php?a=add&pid=8"
+        "link_url": "https://accounts.teradelta.com/order/config/index/sb-usa/?group_id=8&pricing_id=116"
       }],
       "Coupon": "",
       "Note": ""
