@@ -26,6 +26,28 @@
       "Note": "EUR 5/m"
     },
     {
+      "Provider": "Alwyzon",
+      "Provider_URL": "https://www.alwyzon.com/",
+      "Region": "EU",
+      "Locations": "Vienna, AT",
+      "Space": "1000",
+      "Bandwidth": "2",
+      "Port_Speed": "1",
+      "CPUs": "1",
+      "RAM": "1",
+      "IPv4": "Yes",
+      "IPv6": "Yes",
+      "VZ_Type": "KVM",
+      "Price": "€6.57",
+      "Value": "€6.57",
+      "Links": [{
+        "link_desc": "Order",
+        "link_url": "https://www.alwyzon.com/get/storage-1t"
+      }],
+      "Coupon": "",
+      "Note": "EUR 5.50/m"
+    },
+    {
       "Provider": "Backupsy",
       "Provider_URL": "https://backupsy.com/",
       "Region": "EU+NA",
